@@ -161,7 +161,7 @@ When using `.process` (or `.processSync`), the result is available at
 There are differences between what JSX frameworks accept, such as whether they
 accept `class` or `className`, or `background-color` or `backgroundColor`.
 
-For hast elements transformed by this project, this is be handled through
+For hast elements transformed by this project, this is handled through
 options:
 
 | Framework | `elementAttributeNameCase` | `stylePropertyNameCase` |
